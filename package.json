@@ -1,0 +1,21 @@
+{
+    "name": "semantic-darcula",
+    "displayName": "Semantic Darcula",
+    "description": "Darcula theme but with some semantic goodies like a slightly different color for function parameters, arrow function keyword color, some identifiers are boldened, etc.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Semantic Darcula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Semantic Darcula-color-theme.json"
+            }
+        ]
+    }
+}
