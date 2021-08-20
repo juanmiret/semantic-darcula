@@ -499,6 +499,14 @@
         "foreground": "#CC8242",
         "fontStyle": "italic bold"
       }
+    },
+    {
+      "name": "Ruby Variables",
+      "scope": ["variable.other.readwrite.instance.ruby"],
+      "settings": {
+        "foreground": "#9E7BB0",
+        "fontStyle": "bold"
+      }
     }
   ],
   "semanticHighlighting": true,
